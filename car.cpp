@@ -6,4 +6,8 @@ class Car
 private:
     Engine *engine;
     Brand *brand;
+
+public:
+    Car();
+    ~Car();
 };
