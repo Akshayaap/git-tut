@@ -5,4 +5,6 @@ private:
     int y;
 
 public:
+    Car();
+    ~Car();
 };
