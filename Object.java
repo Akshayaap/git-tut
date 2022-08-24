@@ -1,4 +1,4 @@
-public class Object {
+public abstract class Object {
     public Object() {
 
     }
