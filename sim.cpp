@@ -1,3 +1,3 @@
-class Sim(){
-
+class Sim
+{
 };
