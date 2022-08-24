@@ -1,3 +1,5 @@
 class Obj
 {
+private:
+public:
 };
