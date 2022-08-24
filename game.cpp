@@ -14,6 +14,7 @@ public:
     }
 
 public:
+<<<<<<< HEAD
     void Update()
     {
     }
@@ -30,6 +31,8 @@ public:
             sleep(30);
         }
     }
+=======
+>>>>>>> feature
     void tick()
     {
     }
