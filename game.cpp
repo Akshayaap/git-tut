@@ -1,3 +1,4 @@
+#include "util.h"
 class Game
 {
 private:
@@ -18,5 +19,15 @@ public:
     }
     void Render()
     {
+    }
+
+    void Go()
+    {
+        while (true)
+        {
+            Update();
+            Render();
+            sleep(30);
+        }
     }
 };
