@@ -14,7 +14,6 @@ public:
     }
 
 public:
-<<<<<<< HEAD
     void Update()
     {
     }
@@ -31,12 +30,10 @@ public:
             sleep(30);
         }
     }
-=======
     void tick()
     {
     }
     void draw()
     {
     }
->>>>>>> tick and count methods of Game are called from main method in while(true) loop
 };
