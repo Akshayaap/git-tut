@@ -6,10 +6,14 @@ private:
     int count = 0;
 
 public:
-    Sim()
-    {
-    }
-    ~Sim()
-    {
-    }
+    Sim();
+    ~Sim();
 };
+
+Sim::Sim()
+{
+}
+
+Sim::~Sim()
+{
+}
