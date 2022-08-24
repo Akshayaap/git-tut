@@ -11,3 +11,10 @@ public:
     Car();
     ~Car();
 };
+
+Car::Car()
+{
+}
+Car::~Car()
+{
+}
