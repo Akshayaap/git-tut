@@ -1,4 +1,4 @@
-public class Astroid {
+public abstract class Astroid {
     public Astroid() {
 
     }
