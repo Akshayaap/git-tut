@@ -11,4 +11,12 @@ public:
     ~Game()
     {
     }
+
+public:
+    void Update()
+    {
+    }
+    void Render()
+    {
+    }
 };
