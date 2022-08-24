@@ -8,3 +8,11 @@ public:
     Obj();
     ~Obj();
 };
+
+Obj::Obj()
+{
+}
+
+Obj::~Obj()
+{
+}
